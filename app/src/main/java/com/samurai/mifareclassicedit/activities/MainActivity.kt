@@ -1,4 +1,4 @@
-package com.samurai.mifareclassicedit
+package com.samurai.mifareclassicedit.activities
 
 import android.app.Activity
 import android.app.PendingIntent
@@ -14,6 +14,7 @@ import android.widget.Button
 import android.widget.EditText
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
+import com.samurai.mifareclassicedit.R
 import com.samurai.mifareclassicedit.utilities.Utils.leToNumeric
 import com.samurai.mifareclassicedit.utilities.Utils.leToNumericString
 import com.samurai.mifareclassicedit.utilities.Utils.toastMessage
