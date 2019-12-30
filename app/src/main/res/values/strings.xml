@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MFKIll</string>
+    <string name="current_balance">Current Balance</string>
+    <string name="add_balance">Add Balance</string>
+    <string name="type_new_balance">Type Balance what you wish</string>
+    <string name="number_card">N° Card</string>
+    <string name="edit_number_card">Change number card</string>
+    <string name="clear">Clear values</string>
+    <string name="chip_card">N° Chip</string>
+</resources>
